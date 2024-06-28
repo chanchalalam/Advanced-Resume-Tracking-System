@@ -16,9 +16,9 @@ Profile Summary: The system generates a concise profile summary highlighting key
 
 ## Requirements
 
-Python 3.10
-Stremlit
-Gemini Pro model api key (Note: Ensure you have the necessary credentials and permissions to access the Gemini Pro API)
+1. Python 3.10
+2. Stremlit
+3. Gemini Pro model api key (Note: Ensure you have the necessary credentials and permissions to access the Gemini Pro API)
 
 ## Installation
 

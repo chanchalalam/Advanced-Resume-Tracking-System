@@ -2,6 +2,8 @@
 
 This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
 
+You can try it out here: https://shorturl.at/I7rfg
+
 <img width="1288" alt="Screenshot 2024-06-29 at 12 21 50 AM" src="https://github.com/chanchalalam/Adavanced-Resume-Tracking-System/assets/106960500/cc7f8b1e-7b0d-465b-8874-b52435167889">
 
 <img width="1323" alt="Screenshot 2024-06-29 at 12 24 46 AM" src="https://github.com/chanchalalam/Adavanced-Resume-Tracking-System/assets/106960500/eed57166-ef9c-4a0d-97d6-65072d66eae9">

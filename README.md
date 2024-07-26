@@ -1,4 +1,4 @@
-# Adavanced-Resume-Tracking-System
+# Advanced-Resume-Tracking-System
 
 This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
 
